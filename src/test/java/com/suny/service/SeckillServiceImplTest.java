@@ -39,7 +39,6 @@ public class SeckillServiceImplTest {
 //添加测试
         int i = 1;
         System.out.println(i);
-        System.out.println(i);
     }
 
 //    @Test
