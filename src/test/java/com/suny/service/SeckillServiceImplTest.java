@@ -36,10 +36,10 @@ public class SeckillServiceImplTest {
         logger.info(seckillList.toString());
         System.out.println(seckillList.toString());
 
-//        添加看看
-        int i = 2;
+//添加测试
+        int i = 1;
         System.out.println(i);
-
+        System.out.println(i);
     }
 
 //    @Test
