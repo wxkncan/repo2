@@ -35,6 +35,10 @@ public class SeckillServiceImplTest {
         List<Seckill> seckillList = seckillService.getSeckillList();
         logger.info(seckillList.toString());
         System.out.println(seckillList.toString());
+
+//添加测试
+        int i = 1;
+        System.out.println(i);
     }
 
 //    @Test
