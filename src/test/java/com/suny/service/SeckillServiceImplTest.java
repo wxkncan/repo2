@@ -37,8 +37,7 @@ public class SeckillServiceImplTest {
         System.out.println(seckillList.toString());
 
 //添加测试
-        int i = 1;
-        System.out.println(i);
+        int i = 3;
         System.out.println(i);
     }
 
